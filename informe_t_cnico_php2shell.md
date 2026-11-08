@@ -1,10 +1,7 @@
 # Informe Técnico: Análisis, Explotación y Mitigación de PHP2Shell (TryHackMe)
 
-**Autor:** Álvaro Manuel Castillo Arancibia  
-**Especialidad:** Ingeniería en Ciberseguridad / Analista Programador  
-**Laboratorio:** [TryHackMe - PHP2Shell](https://tryhackme.com/room/cvephp2shell)  
-**Identificadores CVE:** CVE-2026-109618 (Memory Disclosure) y CVE-2026-109619 (Unauthenticated RCE)  
-**Severidad:** CVSS v4.0: 9.2 (Crítico)
+**Alumno:** Álvaro Manuel Castillo Arancibia  
+**Carrera:** Ingeniería en Ciberseguridad 
 
 ---
 
